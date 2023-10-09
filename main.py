@@ -1,7 +1,7 @@
 import numpy as np
 
-a = np.sin(np.pi/2)
+b = np.sin(np.pi/2)
 
-print(a)
+print(b)
 
 print ("hello")
